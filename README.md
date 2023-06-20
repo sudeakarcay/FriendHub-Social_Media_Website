@@ -26,13 +26,20 @@ FriendHub blocks XSS Attacks
 FriendHub is secure for SQL Injection Attacks
 
 Also, you can see the founders of FriendHub on the About page. 
-Other contributors: Enes akmak and Ahmet Talha Klç
+Other contributors: Enes Çakmak and Ahmet Talha Kılıç.
 
 
-![login_page](https://github.com/sudeakarcay/FriendHub-Social_Media_Website/assets/96686001/b491ee33-7888-4b47-ac1a-fc9a9cad59ec)
-![about_page](https://github.com/sudeakarcay/FriendHub-Social_Media_Website/assets/96686001/0bb661c0-3359-4429-940e-95877d72f51b)
-![register_page](https://github.com/sudeakarcay/FriendHub-Social_Media_Website/assets/96686001/a2b519b6-e5da-430c-8a24-b628a9994292)
-![search_page](https://github.com/sudeakarcay/FriendHub-Social_Media_Website/assets/96686001/7b3284ff-c6b0-47d4-8620-9602d59da2ca)
-![notification](https://github.com/sudeakarcay/FriendHub-Social_Media_Website/assets/96686001/f0e54c4c-c402-4124-ac7f-863445c02526)
-![profile_page](https://github.com/sudeakarcay/FriendHub-Social_Media_Website/assets/96686001/5828f04d-b8c4-4b0c-8a3b-10b76fc268bc)
-![home_page](https://github.com/sudeakarcay/FriendHub-Social_Media_Website/assets/96686001/8979980d-b954-4151-933c-7ee96eaa7c26)
+![login_page](https://github.com/sudeakarcay/FriendHub-Social_Media_Website/assets/96686001/3cfe1a47-db91-499b-a877-62e8e82b1947)
+![about_page](https://github.com/sudeakarcay/FriendHub-Social_Media_Website/assets/96686001/c732270c-8c90-4e96-b8e9-4e0f602d3a5d)
+![register_page](https://github.com/sudeakarcay/FriendHub-Social_Media_Website/assets/96686001/447e4616-4d30-4f24-8d4e-f808b0cea350)
+![profile_page](https://github.com/sudeakarcay/FriendHub-Social_Media_Website/assets/96686001/6801d6ec-9b69-41c9-85ec-d392a55f752d)
+![notification](https://github.com/sudeakarcay/FriendHub-Social_Media_Website/assets/96686001/9fb68cc1-7cef-4d89-8ab4-c1a46c480a18)
+![search_page](https://github.com/sudeakarcay/FriendHub-Social_Media_Website/assets/96686001/98383c25-5fe4-41dd-b5da-0e24e44ec33c)
+![home_page](https://github.com/sudeakarcay/FriendHub-Social_Media_Website/assets/96686001/8ac31556-d537-4160-80d8-70fc7e28df74)
+
+
+
+
+
+
+
