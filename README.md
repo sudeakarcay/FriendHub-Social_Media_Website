@@ -30,7 +30,7 @@ Also you can see the founders of the FriendHub on the about page. Other contribu
 ![about_page](https://github.com/sudeakarcay/FriendHub-Social_Media_Website/assets/96686001/0bb661c0-3359-4429-940e-95877d72f51b)
 ![login_page](https://github.com/sudeakarcay/FriendHub-Social_Media_Website/assets/96686001/b491ee33-7888-4b47-ac1a-fc9a9cad59ec)
 ![register_page](https://github.com/sudeakarcay/FriendHub-Social_Media_Website/assets/96686001/a2b519b6-e5da-430c-8a24-b628a9994292)
-![profile_page](https://github.com/sudeakarcay/FriendHub-Social_Media_Website/assets/96686001/8865fd11-5bce-46db-acd2-32a4f721aa09)
+![search_page](https://github.com/sudeakarcay/FriendHub-Social_Media_Website/assets/96686001/7b3284ff-c6b0-47d4-8620-9602d59da2ca)
 ![notification](https://github.com/sudeakarcay/FriendHub-Social_Media_Website/assets/96686001/f0e54c4c-c402-4124-ac7f-863445c02526)
 ![profile_page](https://github.com/sudeakarcay/FriendHub-Social_Media_Website/assets/96686001/5828f04d-b8c4-4b0c-8a3b-10b76fc268bc)
 ![home_page](https://github.com/sudeakarcay/FriendHub-Social_Media_Website/assets/96686001/8979980d-b954-4151-933c-7ee96eaa7c26)
