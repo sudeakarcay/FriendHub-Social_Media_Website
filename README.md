@@ -1,7 +1,7 @@
 FriendHub
 
 CTIS256 Term Project
-Technologies that we used
+Technologies that we used:
 PHP
 MySQL
 HTML
