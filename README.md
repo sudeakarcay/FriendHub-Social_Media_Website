@@ -2,28 +2,28 @@ FriendHub
 
 CTIS256 Term Project
 Technologies that we used:
-PHP
-MySQL
-HTML
-CSS
-Ajax
+PHP,
+MySQL,
+HTML,
+CSS,
+Ajax.
 We did not use any templates. We only used Bootstrap for icons and buttons.
 
-FriendHub contains some features
-Login and Register Pages
-Timeline Page
-Add, Search and Delete Friends with AJAX
-Get notification
-Sharing posts (only text, only image, or image and text)
-Send Comment and Like Post with AJAX
-Session and Cookie Operations
-Database CRUD Operations
-Delete post
+FriendHub contains some features:
+Login and Register Pages,
+Timeline Page,
+Add, Search and Delete Friends with AJAX,
+Get notification,
+Sharing posts (only text, only image, or image and text),
+Send Comment and Like Post with AJAX,
+Session Operations,
+Database CRUD Operations,
+Delete post.
 
-Security Part
-Bcrypt Hashing for each user
-FriendHub blocks XSS Attacks
-FriendHub is secure for SQL Injection Attacks
+Security Part:
+Bcrypt Hashing for each user,
+FriendHub blocks XSS Attacks,
+FriendHub is secure for SQL Injection Attacks.
 
 Also, you can see the founders of FriendHub on the About page. 
 Other contributors: Enes Çakmak and Ahmet Talha Kılıç.
@@ -36,8 +36,7 @@ Other contributors: Enes Çakmak and Ahmet Talha Kılıç.
 ![notification](https://github.com/sudeakarcay/FriendHub-Social_Media_Website/assets/96686001/9fb68cc1-7cef-4d89-8ab4-c1a46c480a18)
 ![search_page](https://github.com/sudeakarcay/FriendHub-Social_Media_Website/assets/96686001/98383c25-5fe4-41dd-b5da-0e24e44ec33c)
 ![home_page](https://github.com/sudeakarcay/FriendHub-Social_Media_Website/assets/96686001/8ac31556-d537-4160-80d8-70fc7e28df74)
-
-
+![image](https://github.com/sudeakarcay/FriendHub-Social_Media_Website/assets/96686001/4d151d6d-7565-4e32-bc83-59df776bacd7)
 
 
 
