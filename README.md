@@ -9,20 +9,20 @@ CSS,
 Ajax.
 We did not use any templates. We only used Bootstrap for icons and buttons.
 
-FriendHub contains some features:
-Login and Register Pages,
-Timeline Page,
-Add, Search and Delete Friends with AJAX,
-Get notification,
-Sharing posts (only text, only image, or image and text),
-Send Comment and Like Post with AJAX,
-Session Operations,
-Database CRUD Operations,
+FriendHub contains some features:<br>
+Login and Register Pages <br>
+Timeline Page <br>
+Add, Search and Delete Friends with AJAX <br>
+Get notification <br>
+Sharing posts (only text, only image, or image and text) <br>
+Send Comment and Like Post with AJAX <br>
+Session Operations <br>
+Database CRUD Operations <br>
 Delete post.
 
 Security Part:
-Bcrypt Hashing for each user,
-FriendHub blocks XSS Attacks,
+Bcrypt Hashing for each user <br>
+FriendHub blocks XSS Attacks <br>
 FriendHub is secure for SQL Injection Attacks.
 
 Also, you can see the founders of FriendHub on the About page. 
