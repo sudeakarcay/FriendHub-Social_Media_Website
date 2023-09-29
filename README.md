@@ -1,12 +1,12 @@
 FriendHub
 
-CTIS256 Term Project
-Technologies that we used:
-PHP,
-MySQL,
-HTML,
-CSS,
-Ajax.
+CTIS256 Term Project <br> <br>
+Technologies that we used:<br>
+PHP<br>
+MySQL<br>
+HTML<br>
+CSS<br>
+Ajax<br>
 We did not use any templates. We only used Bootstrap for icons and buttons.
 
 FriendHub contains some features:<br>
@@ -25,7 +25,7 @@ Bcrypt Hashing for each user <br>
 FriendHub blocks XSS Attacks <br>
 FriendHub is secure for SQL Injection Attacks.
 
-Also, you can see the founders of FriendHub on the About page. 
+Also, you can see the founders of FriendHub on the About page. <br>
 Other contributors: Enes Çakmak and Ahmet Talha Kılıç.
 
 
